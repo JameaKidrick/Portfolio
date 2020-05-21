@@ -4186,6 +4186,10 @@ input, select, textarea {
 	margin-right: 10px;
 }
 
+.project_titles {
+	font-weight: bold;
+}
+
 /* Tooltip container */
 .tooltip {
   position: relative;
