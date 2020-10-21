@@ -4236,3 +4236,8 @@ input, select, textarea {
 		font-size: 3rem
 	}
 }
+
+/* Text for newest project */
+#status {
+	font-size: 0.8rem;
+}
